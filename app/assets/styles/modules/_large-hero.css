@@ -46,6 +46,11 @@
             font-size: 1.875rem;
         }
     }
+
+    &__image {
+        display: block;
+
+    }
 }
 
 
